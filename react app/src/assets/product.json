@@ -1,0 +1,32 @@
+ [
+    {
+        "id":"1",
+        "name":"biryani",
+        "price":"300",
+        "pic":"https://imgs.search.brave.com/CGjizhvSz9PL8P1qQZ7G9uDshmtbT2I5h1FHp6l-AWQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTI1/NjQ3Njk5My9waG90/by9mb29kLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz1NLS1H/TDMwYTl0a0VEUUpW/SDBVSTA3VmUtUWdG/TTJ4NUpVejRUd3Y5/OUxnPQ"
+    },
+    {
+        "id":"2",
+        "name":"soup",
+        "price":"150",
+        "pic":"https://imgs.search.brave.com/6zV4xEM1X_NZY3RNDznRv6H6rEbWSII4I9z8jkMKb5M/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTM5/ODM0OTgwMi9waG90/by9vaGEtc291cC5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/Q3o0Mk9hNHpWTkI5/R2k0MU9ScVBrQ093/QWRYTzV5dkhoOUcz/dlBnTzJYYz0"
+    },
+    {
+        "id":"3",
+        "name":"noodels",
+        "price":"200",
+        "pic":"https://imgs.search.brave.com/XRE-6lD6BKojHGowprM1WnOUHk8OJuGb_-mUJVepNto/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAxNS8w/NC8xMC8wMC80MS9m/b29kLTcxNTU0Ml82/NDAuanBn"
+    },
+    {
+        "id":"4",
+        "name":"burger",
+        "price":"100",
+        "pic":"https://imgs.search.brave.com/dlqhI8xbetyzrGtfayQ8Rfqc1mKYVAnjtXxR2vtsowI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAxNy8x/MS8yNS8xNy8xNy9z/YW5kd2ljaC0yOTc3/MjUxXzY0MC5qcGc"
+    },
+    {
+        "id":"5",
+        "name":"soft drinks",
+        "price":"50",
+        "pic":"https://imgs.search.brave.com/kCTTUyvdS4doeJLGtxe1c68Z9M8doC_yqoTdFYSlIH4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cHJlcGFyZWRmb29k/cGhvdG9zLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvZWRkLzIw/MjIvMTEvT2xkLUZh/c2hpb24tRHJpbmst/MjQxeDMwMC5qcGc"
+    }
+]

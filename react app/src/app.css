@@ -1,0 +1,16 @@
+table{
+    border:1px solid black;
+    border-collapse: collapse;
+}
+table th,td{
+    border:1px solid black;
+    padding:5px 10px;
+    width:250px;
+}
+form{
+    margin-top:10px;
+    width:250px;
+    display:flex;
+    flex-direction: column;
+    gap:20px;
+}
